@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "productId": "1",
+      "productName": "SAMSUNG 15.6” Galaxy Book3",
+      "productCategory": "Laptop",
+      "productImage": "https://m.media-amazon.com/images/I/41x6QZ2gwyL.__AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "productDescription": "APPLE ",
+      "price": "53000",
+      "id": 1
+    }
+  ]
+}
